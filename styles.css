@@ -46,7 +46,6 @@ body{
 }
 
 @media (min-width:1000px) {
-
     .wrap{
         margin: auto;
         width: 30%;
@@ -54,7 +53,6 @@ body{
         margin-bottom: 50px !important;
         display: flex;
     }
-  
   }
 
 
